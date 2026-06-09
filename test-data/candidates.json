@@ -1,0 +1,14 @@
+{
+  "newCandidate": {
+    "firstName": "Alice",
+    "middleName": "Marie",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "contactNumber": "1234567890",
+    "keywords": "qa, automation, playwright",
+    "notes": "Strong background in automated testing."
+  },
+  "searchCriteria": {
+    "candidateName": "Alice Marie Smith"
+  }
+}

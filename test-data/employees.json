@@ -1,0 +1,19 @@
+{
+  "newEmployee": {
+    "firstName": "John",
+    "middleName": "Robert",
+    "lastName": "Doe",
+    "employeeId": "998877",
+    "username": "johndoebdd",
+    "password": "Password123!",
+    "confirmPassword": "Password123!"
+  },
+  "searchCriteria": {
+    "employeeName": "John Robert Doe",
+    "employeeId": "998877"
+  },
+  "editDetails": {
+    "otherId": "554433",
+    "licenseNumber": "DL12345678"
+  }
+}
